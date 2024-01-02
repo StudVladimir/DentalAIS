@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/Scene2Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/Scene2Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/Scene2Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/Scene2Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/j29-EI-PVz-view-pjD-ss-f2S.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/j29-EI-PVz-view-pjD-ss-f2S.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/j29-EI-PVz-view-pjD-ss-f2S.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/j29-EI-PVz-view-pjD-ss-f2S.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/hKg-wG-s4K-view-89Y-n0-zPD.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/hKg-wG-s4K-view-89Y-n0-zPD.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/hKg-wG-s4K-view-89Y-n0-zPD.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/hKg-wG-s4K-view-89Y-n0-zPD.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/Reception.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/Reception.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene2.storyboardc/Reception.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene2.storyboardc/Reception.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene2.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene7.storyboardc/0E8-Oo-rLl-view-tuX-CL-jbe.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene7.storyboardc/0E8-Oo-rLl-view-tuX-CL-jbe.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene7.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene7.storyboardc/zB2-5H-cE1-view-tMz-Ph-HjK.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene7.storyboardc/zB2-5H-cE1-view-tMz-Ph-HjK.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene7.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene7.storyboardc/Scene7Main.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene7.storyboardc/Scene7Main.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene7.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene7.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene7.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene7.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/fx9-Hn-f7n-view-mjj-Ed-Lfy.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/fx9-Hn-f7n-view-mjj-Ed-Lfy.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/DentalFormula.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/DentalFormula.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/Scene4Main.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/Scene4Main.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/HF5-Za-111-view-3rh-gj-kWn.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/HF5-Za-111-view-3rh-gj-kWn.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/O5O-Y8-v5G-view-aca-pq-8u5.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/O5O-Y8-v5G-view-aca-pq-8u5.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene4.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene4.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene4.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene8.storyboardc/NSWindowController-sDx-9x-uj5.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene8.storyboardc/NSWindowController-sDx-9x-uj5.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene8.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene8.storyboardc/cjw-wb-sl7-view-gYK-j5-CW7.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene8.storyboardc/cjw-wb-sl7-view-gYK-j5-CW7.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene8.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene8.storyboardc/NXV-5a-4X2-view-KUG-rS-jFx.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene8.storyboardc/NXV-5a-4X2-view-KUG-rS-jFx.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene8.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene8.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene8.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene8.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/dsU-8A-j1J-view-5gu-hE-Yjf.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/dsU-8A-j1J-view-5gu-hE-Yjf.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/dsU-8A-j1J-view-5gu-hE-Yjf.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/dsU-8A-j1J-view-5gu-hE-Yjf.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/Scene11Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/Scene11Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/Scene11Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/Scene11Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/Patients.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/Patients.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/Patients.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/Patients.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/uL7-OM-eec-view-nSi-Ga-beb.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/uL7-OM-eec-view-nSi-Ga-beb.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene11.storyboardc/uL7-OM-eec-view-nSi-Ga-beb.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene11.storyboardc/uL7-OM-eec-view-nSi-Ga-beb.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene11.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Ic5-2D-ROy-view-9Mf-rQ-4vU.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Ic5-2D-ROy-view-9Mf-rQ-4vU.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Ic5-2D-ROy-view-9Mf-rQ-4vU.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Ic5-2D-ROy-view-9Mf-rQ-4vU.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/PZx-Sr-mWa-view-aHu-eg-r7Y.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/PZx-Sr-mWa-view-aHu-eg-r7Y.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/PZx-Sr-mWa-view-aHu-eg-r7Y.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/PZx-Sr-mWa-view-aHu-eg-r7Y.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/gKP-N9-Fea-view-vea-RA-w9j.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/gKP-N9-Fea-view-vea-RA-w9j.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/gKP-N9-Fea-view-vea-RA-w9j.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/gKP-N9-Fea-view-vea-RA-w9j.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Kt8-gb-1bP-view-qqT-GJ-naf.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Kt8-gb-1bP-view-qqT-GJ-naf.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Kt8-gb-1bP-view-qqT-GJ-naf.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Kt8-gb-1bP-view-qqT-GJ-naf.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/ChoosePatient432.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/ChoosePatient432.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/ChoosePatient432.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/ChoosePatient432.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/choosepat.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/choosepat.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/choosepat.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/choosepat.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Scene6Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Scene6Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/Scene6Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/Scene6Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/NSViewController-gKP-N9-Fea.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/NSViewController-gKP-N9-Fea.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene6.storyboardc/NSViewController-gKP-N9-Fea.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene6.storyboardc/NSViewController-gKP-N9-Fea.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene6.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/hpN-pa-THy-view-oNz-hx-U8w.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/hpN-pa-THy-view-oNz-hx-U8w.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/AuthController.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/AuthController.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/LoginFail.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/LoginFail.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/4Yt-MY-Hdx-view-zs3-Sp-BOK.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/4Yt-MY-Hdx-view-zs3-Sp-BOK.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/AuthWindow.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/AuthWindow.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/u4N-3k-q5j-view-IAm-x4-q13.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/u4N-3k-q5j-view-IAm-x4-q13.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/MainMenu.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/MainMenu.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/NSViewController-hpN-pa-THy.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/NSViewController-hpN-pa-THy.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/NSViewController-u4N-3k-q5j.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/NSViewController-u4N-3k-q5j.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Main.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Main.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/Scene3Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/Scene3Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/Scene3Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/Scene3Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/MedicalCard.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/MedicalCard.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/MedicalCard.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/MedicalCard.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/Patients.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/Patients.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/Patients.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/Patients.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/IkV-3j-xXA-view-Wb9-Kv-3zH.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/IkV-3j-xXA-view-Wb9-Kv-3zH.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/IkV-3j-xXA-view-Wb9-Kv-3zH.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/IkV-3j-xXA-view-Wb9-Kv-3zH.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/y32-mG-exd-view-cTG-sz-yzl.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/y32-mG-exd-view-cTG-sz-yzl.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/y32-mG-exd-view-cTG-sz-yzl.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/y32-mG-exd-view-cTG-sz-yzl.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/eF3-jI-p3s-view-sIM-Xd-bkx.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/eF3-jI-p3s-view-sIM-Xd-bkx.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene3.storyboardc/eF3-jI-p3s-view-sIM-Xd-bkx.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene3.storyboardc/eF3-jI-p3s-view-sIM-Xd-bkx.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene3.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene10.storyboardc/Scene10Main.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene10.storyboardc/Scene10Main.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene10.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene10.storyboardc/0N5-4Z-auM-view-w2F-15-fOn.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene10.storyboardc/0N5-4Z-auM-view-w2F-15-fOn.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene10.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene10.storyboardc/WpI-Du-iux-view-bvu-Zg-64s.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene10.storyboardc/WpI-Du-iux-view-bvu-Zg-64s.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene10.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene10.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene10.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene10.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/H2I-Ug-ISk-view-aVW-Qc-I0v.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/H2I-Ug-ISk-view-aVW-Qc-I0v.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/H2I-Ug-ISk-view-aVW-Qc-I0v.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/H2I-Ug-ISk-view-aVW-Qc-I0v.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/Patients.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/Patients.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/Patients.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/Patients.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/Scene9Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/Scene9Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/Scene9Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/Scene9Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/bRd-cJ-Muy-view-kFL-db-fts.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/bRd-cJ-Muy-view-kFL-db-fts.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene9.storyboardc/bRd-cJ-Muy-view-kFL-db-fts.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene9.storyboardc/bRd-cJ-Muy-view-kFL-db-fts.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene9.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene5.storyboardc/Info.plist">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene5.storyboardc/Info.plist</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene5.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene5.storyboardc/zkg-4p-CFL-view-KbB-de-uhD.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene5.storyboardc/zkg-4p-CFL-view-KbB-de-uhD.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene5.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene5.storyboardc/zkg-4p-CFL-view-KbB-de-uhD.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene5.storyboardc/zkg-4p-CFL-view-KbB-de-uhD.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene5.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene5.storyboardc/Scene5Main.nib/keyedobjects-110000.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene5.storyboardc/Scene5Main.nib/keyedobjects-110000.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene5.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool-link/Scene5.storyboardc/Scene5Main.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>Scene5.storyboardc/Scene5Main.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool-link/Scene5.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

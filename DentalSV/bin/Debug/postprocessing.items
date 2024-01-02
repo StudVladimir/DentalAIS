@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="DentalSV.app/Contents/MacOS/DentalSV">
+      <BCSymbolMapName>DentalSV.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>DentalSV.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/vladimirrybin/Projects/AISStom/DentalSV/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>DentalSV.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/vladimirrybin/Projects/AISStom/DentalSV</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

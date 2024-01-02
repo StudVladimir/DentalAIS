@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5151833C-39A8-483C-B40C-938E936013E2}</ProjectGuid>
+    <ProjectTypeGuids>{A3F8F2AB-B479-4A4A-A458-A89E7DC349F1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>DentalSV</RootNamespace>
+    <AssemblyName>DentalSV</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkIdentifier>Xamarin.Mac</TargetFrameworkIdentifier>
+    <MonoMacResourcePrefix>Resources</MonoMacResourcePrefix>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesigningKey>Mac Developer</CodesigningKey>
+    <CreatePackage>false</CreatePackage>
+    <EnablePackageSigning>false</EnablePackageSigning>
+    <IncludeMonoRuntime>false</IncludeMonoRuntime>
+    <UseSGen>true</UseSGen>
+    <UseRefCounting>true</UseRefCounting>
+    <AOTMode></AOTMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CreatePackage>true</CreatePackage>
+    <EnablePackageSigning>false</EnablePackageSigning>
+    <IncludeMonoRuntime>true</IncludeMonoRuntime>
+    <UseSGen>true</UseSGen>
+    <UseRefCounting>true</UseRefCounting>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <LinkMode>SdkOnly</LinkMode>
+    <AOTMode></AOTMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Xamarin.Mac" />
+    <Reference Include="System.Data" />
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Downloads\mysql-connector-net-8-4\netstandard2.0\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+    <None Include=".DS_Store" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="ViewController.cs" />
+    <Compile Include="ViewController.designer.cs">
+      <DependentUpon>ViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
+    <Compile Include="LoginFailViewController.cs" />
+    <Compile Include="LoginFailViewController.designer.cs">
+      <DependentUpon>LoginFailViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptionViewController.cs" />
+    <Compile Include="ReceptionViewController.designer.cs">
+      <DependentUpon>ReceptionViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reception.cs" />
+    <Compile Include="ReceptionTableDataSource.cs" />
+    <Compile Include="ReceptionTableDelegate.cs" />
+    <Compile Include="MenuViewController.cs" />
+    <Compile Include="MenuViewController.designer.cs">
+      <DependentUpon>MenuViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientsViewController.cs" />
+    <Compile Include="PatientsViewController.designer.cs">
+      <DependentUpon>PatientsViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient.cs" />
+    <Compile Include="PatientTableDataSource.cs" />
+    <Compile Include="PatientTableDelegate.cs" />
+    <Compile Include="DentalFormulaViewcontroller.cs" />
+    <Compile Include="DentalFormulaViewcontroller.designer.cs">
+      <DependentUpon>DentalFormulaViewcontroller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatePatientViewController.cs" />
+    <Compile Include="CreatePatientViewController.designer.cs">
+      <DependentUpon>CreatePatientViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestsClass.cs" />
+    <Compile Include="PublicValues.cs" />
+    <Compile Include="MedCardViewController.cs" />
+    <Compile Include="MedCardViewController.designer.cs">
+      <DependentUpon>MedCardViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visit.cs" />
+    <Compile Include="VisitTableDataSource.cs" />
+    <Compile Include="VisitTableDelegate.cs" />
+    <Compile Include="EarlyMedCards.cs" />
+    <Compile Include="EarlyMedCardsTableDataSource.cs" />
+    <Compile Include="EarlyMedCardsTableDelegate.cs" />
+    <Compile Include="OldCardsViewController.cs" />
+    <Compile Include="OldCardsViewController.designer.cs">
+      <DependentUpon>OldCardsViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateReceptionViewController.cs" />
+    <Compile Include="CreateReceptionViewController.designer.cs">
+      <DependentUpon>CreateReceptionViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoosePatForReceptViewController.cs" />
+    <Compile Include="ChoosePatForReceptViewController.designer.cs">
+      <DependentUpon>ChoosePatForReceptViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPhotoViewController.cs" />
+    <Compile Include="AddPhotoViewController.designer.cs">
+      <DependentUpon>AddPhotoViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllPhotosViewController.cs" />
+    <Compile Include="AllPhotosViewController.designer.cs">
+      <DependentUpon>AllPhotosViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogHistoryViewController.cs" />
+    <Compile Include="LogHistoryViewController.designer.cs">
+      <DependentUpon>LogHistoryViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogHistoryTableDatasource.cs" />
+    <Compile Include="LogHistoryTableDelegate.cs" />
+    <Compile Include="LogsHis.cs" />
+    <Compile Include="ProtezViewController.cs" />
+    <Compile Include="ProtezViewController.designer.cs">
+      <DependentUpon>ProtezViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatProtzesViewController.cs" />
+    <Compile Include="PatProtzesViewController.designer.cs">
+      <DependentUpon>PatProtzesViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Protezes.cs" />
+    <Compile Include="PatRotezesTableDataSourse.cs" />
+    <Compile Include="PatRotezesTableDelegate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Main.storyboard" />
+    <InterfaceDefinition Include="Scene2.storyboard" />
+    <InterfaceDefinition Include="Scene3.storyboard" />
+    <InterfaceDefinition Include="Scene4.storyboard" />
+    <InterfaceDefinition Include="Scene5.storyboard" />
+    <InterfaceDefinition Include="Scene6.storyboard" />
+    <InterfaceDefinition Include="Scene7.storyboard" />
+    <InterfaceDefinition Include="Scene8.storyboard" />
+    <InterfaceDefinition Include="Scene9.storyboard" />
+    <InterfaceDefinition Include="Scene10.storyboard" />
+    <InterfaceDefinition Include="Scene11.storyboard" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-512%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-64.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-16.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-32.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-257.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-256.png" />
+    <ImageAsset Include="Assets.xcassets\.DS_Store" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\.DS_Store" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-513.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\AppIcon-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\tooth.png" />
+    <BundleResource Include="Resources\toothdown.png" />
+    <BundleResource Include="Resources\tag.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
+</Project>
